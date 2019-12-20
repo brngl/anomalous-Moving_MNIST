@@ -6,6 +6,8 @@ starting from MNIST dataset.
 ### Moving MNIST
 Moving MNIST contains 10,000 sequences each of length 20 showing 2 digits moving in a 64 x 64 frame.
 http://www.cs.toronto.edu/~nitish/unsupervised_video/
+<div align=center><img width="1920" height="90" src="https://github.com/brngl/images/blob/master/mmnist.png"/></div>
+
 
 ### MNIST
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples.
@@ -32,4 +34,4 @@ Choosing the number of clusters is a critical issue:
 
 3. Afterward, we take medoids as most significative digits to create non-anomalous frames of a sequence. Anomalous frames are 
 obtained replacing medoids with random instances of their respective clusters.
-<div align=center><img width="1920" height="68" src="https://github.com/brngl/images/blob/master/sim1.png"/></div>
+<div align=center><img width="1920" height="90" src="https://github.com/brngl/images/blob/master/sim1.png"/></div>
