@@ -1,6 +1,6 @@
 # Anomalous Moving MNIST
 
-This is an Anomalous Moving MNIST dataset generator. The dataset will contain Moving MNIST sequences with anomalies. It is built
+This is an Anomalous Moving MNIST dataset generator. The dataset will contain Moving MNIST sequences with anomalies. It'll be built
 starting from MNIST dataset.
 
 ### Moving MNIST
